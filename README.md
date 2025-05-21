@@ -23,10 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-ori
  
 <div> 
    <a href = "mailto:deniseroav7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" />](mailto: deniseroav7@gmail.com)
                                              
    <a href="https://www.linkedin.com/in/deniserodrigues7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" />](mailto: deniseroav7@gmail.com)
-
- 
 </div>
