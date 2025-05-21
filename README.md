@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Denisero19 😄
+## Bem-vindo(a) ao perfil do Denisero19 👩‍💻
 
 <div>
   <a href="https://github.com/denisero19">
