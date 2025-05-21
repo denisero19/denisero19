@@ -16,7 +16,7 @@
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souza.erackson@gmail.com)](mailto:souza.erackson@gmail.com)
+   <a href = "mailto:deniseroav7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deniseroav7@gmail.com"></a>
    <a href="https://www.linkedin.com/in/deniserodrigues7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ## 🐍 Snake Animation
